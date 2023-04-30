@@ -1,0 +1,28 @@
+/*
+   CSS file for the project showcase
+   
+   Filename: Coursework.css
+
+*/
+
+@charset "utf-8";
+
+html {
+   background-color: rgb(255, 255, 153);  
+   color: rgb(51, 51, 51);
+   font-size: 15px;
+}
+
+body {
+   background-color: rgb(255, 255, 153);
+   position: relative;
+   margin: 50px auto auto auto;
+   Width: 50%;
+   font-family:Courier New;
+   font-size: 15px;
+   color: rgb(83, 86, 90);
+}
+
+footer {
+   font-size: 12px;
+}
